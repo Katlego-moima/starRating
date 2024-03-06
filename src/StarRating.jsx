@@ -12,7 +12,7 @@ const starContainerStyle = {
 };
 
 export default function StarRating({
-  maxRating = 0,
+  maxRating = 5,
   color = "#fcc419",
   size = 30,
   messages = [],
